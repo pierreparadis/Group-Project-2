@@ -19,7 +19,12 @@ Team Members
 
 Our dataset was obtained from Kaggle, an online data science community with various open datasets to choose from. Our dataset is the “World Happiness Report” formed by the Sustainable Development Network. In the dataset, there are 10 columns: Year, Country, Happiness Rank (from 1-158), Happiness Score, GDP Per Capita, Family, Life Expectancy, Freedom, Government Corruption, and Generosity. Data types include integer and string types - the only string being the Country name. In total, there are 471 rows in the dataset, however, this is a combination of between 155-158 rows for each year from 2015-2017. The values for columns (aside from Happiness Score) are ratios between 0 and 1, with 1 being the best - or worst for government corruption - possible score. 
  
-## Our Questions and Why They are Interesting
+## Our Questions
+_Question 1: Do average happiness and average life expectancy have a strong correlation to average GDP and what socioeconomic factors may influence this?_
+
+Our team thought this was an interesting question because it examines the intersection of three important indicators of well-being: life expectancy, happiness, and GDP per capita. By identifying the countries that rank high in all three areas, we can gain insights into how economic development, social factors, and quality of life are interrelated, and what policies or practices these countries may have implemented to achieve such positive outcomes.
+
+_Question 2: _
 
 1. Do average happiness and average life expectancy have a strong correlation to average GDP and what socioeconomic factors may influence this?
 
@@ -34,3 +39,4 @@ For our dataset, we firstly adjusted many of the column names to be more clear i
 
 ## Analysis and Results:
 ---Tableau packaged workbook file and provide it as part of the github repository.----
+
