@@ -3,7 +3,7 @@
 Team Name: 21482_3
 
      
-Team Members
+Team Members 
 
 - Lily Fitzgerald  [@lilyjfitz](https://github.com/lilyjfitz)
 - Pierre Paradis [@pierreparadis](https://github.com/pierreparadis)
