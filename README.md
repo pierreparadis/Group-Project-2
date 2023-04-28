@@ -23,7 +23,7 @@ Our dataset was obtained from Kaggle, an online data science community with vari
 
 1. Do average happiness and average life expectancy have a strong correlation to average GDP and what socioeconomic factors may influence this?
 
-Reasons for Importance:
+     Importance:
 
 2.
 ## Manipulations 
