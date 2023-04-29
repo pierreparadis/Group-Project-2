@@ -27,6 +27,7 @@ Our team thought this was an interesting question because it examines the inters
 **_Question 2: What potential political, social, or economic events may have led to Honduras being ranked much lower in average happiness during the years 2015-2017 in contrast to surrounding countries?_**
 
 
+This question is important because it highlights the possible factors contributing to a decline in Honduras' overall happiness during the years 2015-2017, compared to its neighboring countries. By identifying and understanding these potential political, social, or economic events, policymakers and scholars can develop effective strategies to address the root causes of the decline in happiness and improve the quality of life for people in Honduras.
 
 ## Manipulations 
 
