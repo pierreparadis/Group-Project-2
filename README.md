@@ -41,8 +41,9 @@ For our dataset, we firstly adjusted many of the column names to be more clear i
 
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/128631042/235273246-cd00812b-fe8c-4487-b99d-6887326715a1.png">
 
-
-
+2. Our group decided to focus in on countries in Central, South America, and the Caribbean because the large majority of countries in these regions have very similar happiness ranks - especially in Central and South America - but there is a clear outlier in the visualization, which is Honduras at an average rank of 100. Meanwhile, the rest of countries within the filter have an average happiness rank of 34.7 when you exclude the other outliers (in the Caribbean) of Haiti and the Dominican Republic. With such a glaring difference in happiness rank compared to its neighbors, we conducted research into potential factors leading to this disparity. 
+	Firstly, In 2015, President Juan Orlando Hernandez announced that he would seek re-election in violation of the Honduran Constitution. This move was met with widespread opposition, as many Hondurans believed it was an attempt to consolidate power and undermine democracy. The Supreme Court of Honduras, which was packed with Hernandez's supporters, ruled in favor of his re-election, sparking protests and unrest across the country. Also, corruption has long been a problem in Honduras, with the country consistently ranking poorly on global corruption indices. In 2015, a corruption scandal involving the country's Social Security Institute (IHSS) came to light, revealing that over $300 million had been embezzled from the organization. The scandal implicated top government officials, including Hernandez's own sister, and sparked protests calling for an end to corruption and impunity. Finally, Honduras ranked as of the poorest countries in Latin America between the years 2015-2017, with high levels of inequality and unemployment. 
+	As a result of this research, we have concluded that the disparity in average happiness rank during this time period can be attributed to mainly internal issues within Honduras - instead of widespread or regional issues. The social and political conflict from within have had an extremely detrimental impact on Honduran citizens, and the issues do not seem to have spread out to neighboring countries because all of Honduras’ bordering countries have an average combined happiness rank of 45.4 during these 3 years. It also explains why Honduras has experienced such massive emigration across Guatelama into Mexico - which has an average happiness rank of 20. 
 
 
 
@@ -53,6 +54,8 @@ For our dataset, we firstly adjusted many of the column names to be more clear i
 Chivers, C. J. (2008, August 10). Georgia Says Russia Bombed Its Air Bases. The New York Times. https://www.nytimes.com/2008/08/11/world/europe/11georgia.html
 
 Eurasianet. (2020). Azerbaijan-Armenia conflict. https://eurasianet.org/azerbaijan-armenia-conflict
+
+International Federation of Red Cross and Red Crescent Societies. “Honduras, Central America & Mexico: Migration Crisis - Emergency Appeal n° MDR43008 - Country Operational Strategy.” ReliefWeb, 20 Nov. 2020, https://reliefweb.int/report/honduras/honduras-central-america-mexico-migration-crisis-emergency-appeal-no-mdr43008-country-operational-strategy.
 
 Kurmanaev, Anatoly, and Kirk Semple. “Honduran President Declared Election Winner, but O.A.S. Calls for New Vote.” The New York Times, The New York Times, 13 Dec. 2017, https://www.nytimes.com/2017/12/13/world/americas/honduras-election-juan-orlando-hernandez.html.
 
