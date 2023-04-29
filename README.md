@@ -24,7 +24,7 @@ _Question 1: Do average happiness and average life expectancy have a strong corr
 
 Our team thought this was an interesting question because it examines the intersection of three important indicators of well-being: life expectancy, happiness, and GDP per capita. By identifying the countries that rank high in all three areas, we can gain insights into how economic development, social factors, and quality of life are interrelated, and what policies or practices these countries may have implemented to achieve such positive outcomes.
 
-_Question 2: 
+_Question 2: _
 
 
 
