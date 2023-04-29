@@ -35,5 +35,18 @@ For our dataset, we firstly adjusted many of the column names to be more clear i
 
 
 ## Analysis and Results:
----Tableau packaged workbook file and provide it as part of the github repository.----
+
+
+
+
+
+
+Citations:
+
+Chivers, C. J. (2008, August 10). Georgia Says Russia Bombed Its Air Bases. The New York Times. https://www.nytimes.com/2008/08/11/world/europe/11georgia.html
+
+Eurasianet. (2020). Azerbaijan-Armenia conflict. https://eurasianet.org/azerbaijan-armenia-conflict
+
+
+[GroupProject2.zip](https://github.com/pierreparadis/Group-Project-2/files/11357968/GroupProject2.zip)
 
