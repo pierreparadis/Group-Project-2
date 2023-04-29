@@ -54,6 +54,15 @@ Chivers, C. J. (2008, August 10). Georgia Says Russia Bombed Its Air Bases. The 
 
 Eurasianet. (2020). Azerbaijan-Armenia conflict. https://eurasianet.org/azerbaijan-armenia-conflict
 
+Kurmanaev, Anatoly, and Kirk Semple. “Honduran President Declared Election Winner, but O.A.S. Calls for New Vote.” The New York Times, The New York Times, 13 Dec. 2017, https://www.nytimes.com/2017/12/13/world/americas/honduras-election-juan-orlando-hernandez.html.
+
+Lakhani, Nina. “Honduras Protests over Social Security Embezzlement Scandal.” The Guardian, Guardian News and Media, 1 June 2015, https://www.theguardian.com/world/2015/jun/01/honduras-protests-social-security-embezzlement.
+
+Transparency International. “Corruption Perceptions Index 2017.” Transparency International, 2017, https://www.transparency.org/en/cpi/2017/index/nzl.
+
+World Bank. “Honduras Overview.” The World Bank Group, 2021, https://www.worldbank.org/en/country/honduras/overview.
+
+
 
 **Tableau Packaged Workbook File:**
 
