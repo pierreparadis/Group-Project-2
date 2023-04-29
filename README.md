@@ -24,13 +24,10 @@ _Question 1: Do average happiness and average life expectancy have a strong corr
 
 Our team thought this was an interesting question because it examines the intersection of three important indicators of well-being: life expectancy, happiness, and GDP per capita. By identifying the countries that rank high in all three areas, we can gain insights into how economic development, social factors, and quality of life are interrelated, and what policies or practices these countries may have implemented to achieve such positive outcomes.
 
-_Question 2: _
+_Question 2: 
 
-1. Do average happiness and average life expectancy have a strong correlation to average GDP and what socioeconomic factors may influence this?
 
-     Importance:
 
-2.
 ## Manipulations 
 
 For our dataset, we firstly adjusted many of the column names to be more clear indicators of their values. For example, we changed the “Economy” column to “GDP Per Capita” because that is the true value being used. We also removed data from 2019 and 2020 because they use different variables, making it difficult to correctly analyze. For our first visualization, we created a filter to only include European countries on our scatterplot since they have the most variance in happiness levels (they have some of the happiest and least happy countries in our dataset). For our second visualization, we created a filter to only show Central and South American countries in order to focus in on distinctions within that particular region because there is a wide variety of social, political, and economic situations going on in those regions, and the heatmap allows us to narrow down our research into specific countries within said regions. 
