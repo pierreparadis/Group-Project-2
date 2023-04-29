@@ -48,7 +48,7 @@ For our dataset, we firstly adjusted many of the column names to be more clear i
 
 
 
-Citations:
+**Citations:**
 
 Chivers, C. J. (2008, August 10). Georgia Says Russia Bombed Its Air Bases. The New York Times. https://www.nytimes.com/2008/08/11/world/europe/11georgia.html
 
